@@ -1,3 +1,6 @@
+#Imron Assidiqi
+#Program Bank Sampah
+#UTS Algoritma dan Pemrograman
 import getpass
 import os
 def admin():
