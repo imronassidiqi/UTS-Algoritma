@@ -19,6 +19,7 @@ def harga():
     print(hello1)
     Nasabah = input ("Masukkan Nama Lengkap Anda : ")
     user1 = input ("Username : ")
+    print("Selamat " + user1 + ", Silahkan isi kolom berikut :" )
     berat_sampah = int(input("Masukkan berat sampah anda (kg) : "))
     menu = 1
     while menu !=0:
